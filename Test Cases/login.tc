@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>creacion de usuario</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>972e297d-433d-4d6d-806d-8f08a560a909</testCaseGuid>
+</TestCaseEntity>

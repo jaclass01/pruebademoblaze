@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>registro de usuario</description>
+   <name>signup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b198d30f-01b3-4b5f-931c-9204e5db3910</testCaseGuid>
+</TestCaseEntity>
